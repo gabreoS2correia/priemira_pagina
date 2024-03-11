@@ -3,7 +3,9 @@ header{
 
     background-color: white;
 
-    text-align: center
+    text-align: center; 
+
+    height: 350px;
 
 }
 
@@ -39,12 +41,19 @@ footer{
 
  color: white;
 
+ height: 250px;
+
+
+
 }
 
 .bonobo{
 
- width: 100px;
+    width: 50px;
 
+    position: absolute ;
+
+    right: 100px;
 
 }
     
